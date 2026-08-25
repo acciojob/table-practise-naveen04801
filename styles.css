@@ -1,10 +1,14 @@
 table{
     background-color: yellow;
-    border: 1px solid black;
+    
     /* border-collapse: collapse; */
 
     padding: 0.2rem;
 }
 #captions{
     font-weight: bold;
+}
+
+tr{
+	border: 1px solid black;
 }
