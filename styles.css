@@ -1,1 +1,10 @@
-/*  your css code here. If applicable */
+table{
+    background-color: yellow;
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+
+    padding: 0.2rem;
+}
+#captions{
+    font-weight: bold;
+}
