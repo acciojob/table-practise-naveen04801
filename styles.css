@@ -1,12 +1,13 @@
 table{
     background-color: yellow;
-    
-    /* border-collapse: collapse; */
+    border:1px solid #808080;
+    border-collapse: separate;
 
     padding: 0.2rem;
 }
 #captions{
     font-weight: bold;
+	padding:0.2rem;
 }
 
 th,tr,td{
