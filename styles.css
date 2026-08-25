@@ -10,6 +10,6 @@ table{
 	padding:0.2rem;
 }
 
-th,tr,td{
-	border: 1px solid black;
+table, th, tr, td {
+  border: 1px solid black;
 }
